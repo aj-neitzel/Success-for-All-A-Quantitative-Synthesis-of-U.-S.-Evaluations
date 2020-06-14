@@ -10,7 +10,7 @@ This folder includes the dataset analyzed for this paper.
 ## License to Use These Data
 These data are made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/1.0/). You may use, share, and adapt the data so long as you agree to acknowledge this project as the source of these data. Please cite the data as:
 
-Neitzel, A.J., Cheung, A., Xie, C., Zhuang, T.T., & Slavin, R.E. (2019). Data archive for "Success for All: A Quantitative Synthesis of U. S. Evaluations." Towson, MD: Center for Research and Reform in Education (CRRE), Johns Hopkins University. Retrieved from https://github.com/aj-neitzel/Success-for-All-A-Quantitative-Synthesis-of-U.-S.-Evaluations
+Neitzel, A.J., Cheung, A., Xie, C., Zhuang, T.T., & Slavin, R.E. (2020). Data archive for "Success for All: A Quantitative Synthesis of U. S. Evaluations." Towson, MD: Center for Research and Reform in Education (CRRE), Johns Hopkins University. Retrieved from https://github.com/aj-neitzel/Success-for-All-A-Quantitative-Synthesis-of-U.-S.-Evaluations
 
 ## Authors
 The authors are researchers at the [Center for Research and Reform in Education (CRRE)](https://education.jhu.edu/crre/) at [Johns Hopkins University (JHU)](https://www.jhu.edu/), the [Institute of Curriculum and Instruction, Faculty of Education](http://www.kcs.ecnu.edu.cn/EN/Default.aspx) at the [East China Normal University](http://english.ecnu.edu.cn/), and the [Department of Educational Administration and Policy](https://www.fed.cuhk.edu.hk/eap/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/).
@@ -29,6 +29,7 @@ The authors are researchers at the [Center for Research and Reform in Education 
 * McGowan, L. D., & Bryan, J. (2020). googledrive: An Interface to Google Drive. https://CRAN.R-project.org/package=googledrive
 * Pustejovsky, J. (2020). clubSandwich: Cluster-Robust (Sandwich) Variance Estimators with Small-Sample Corrections. https://CRAN.R-project.org/package=clubSandwich
 * R Core Team. (2020). R: a language and environment for statistical computing. R Foundation for Statistical Computing. https://www.R-project.org/
+* Schauberger, P., & Walker, A. (2020). openxlsx: Read, Write and Edit xlsx Files. https://CRAN.R-project.org/package=openxlsx
 * Viechtbauer, W. (2010). Conducting meta-analyses in R with the metafor package. Journal of Statistical Software, 36(3), 1–48.
 * Wickham, H. (2011). The Split-Apply-Combine Strategy for Data Analysis. Journal of Statistical Software, 40(1), 1–29.
 * Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York. https://ggplot2.tidyverse.org
