@@ -1,0 +1,44 @@
+"","FullReference","Study","Year","Published","EvaluatorIndependence","ResearchDesign","Grade","Duration","Schools","N","Sample Description"
+"1","Borman et al. (2007; 2005a; 2005b)","Borman et al. (2007)","2007","1","0","Cluster randomized","K-2","3 years","35","35 schools
+2108 students","Title I schools throughout the U.S.
+72%FRL, 56%AA, 30%W, 10%H"
+"2","Chambers et al. (2005)","Chambers et al. (2005)","2005","0","0","Cluster quasi-experiment","K & 1","1 year","8","8 schools
+577 students","Mostly Hispanic communities in the U.S."
+"3","Correnti (2009)","Correnti (2009)","2009","0","1","Cluster quasi-experiment","K-2","3 years","115","115 schools
+3783 students","High-poverty schools in 17 states
+69%FRL, 52%AA, 21%W, 18%H"
+"4","Datnow et al. (2001)","Datnow et al. (2001)","2001","0","1","Cluster quasi-experiment","1-4","4 years","6","6 schools
+398 students","Diverse students in Miami, FL"
+"5","Livingston & Flaherty (1997)","Livingston & Flaherty (1997)","1997","0","1","Cluster quasi-experiment","1-2,
+ 2-3","2-4 years","6","6 schools
+828 students","High-poverty multilingual schools in Modesto and Riverside, CA."
+"6","Munoz & Dossett (2004)","Munoz & Dossett (2004)","2004","1","1","Cluster quasi-experiment","1-3","3 years","6","6 schools
+349 students","High-poverty schools in Louisville, KY"
+"7","Nunnery et al. (1996)","Nunnery et al. (1996)","1996","0","0","Cluster quasi-experiment","1","1 year","67","67 schools
+2060 students","High-poverty schools in Houston, TX
+78%FRL, 54%H, 38%AA"
+"8","Quint et al. (2015; 2014; 2013)","Quint et al. (2015)","2015","0","1","Cluster randomized","K-2","3 years","37","37 schools
+1635 students","Five school districts, mostly in or on outskirts of large or midsize cities in the Northeast, South, and West
+12% W, 18%AA, 88%FRL, 24%ELL, 66%H"
+"9","Ross & Casey (1998a)","Ross & Casey (1998a)","1998","0","1","Cluster quasi-experiment","K-1","2 years","8","8 schools
+356 students","High-poverty schools in Ft. Wayne, IN
+75%FRL, 45%minority"
+"10","Ross & Casey (1998b)","Ross & Casey (1998b)","1998","0","1","Cluster quasi-experiment","K, 1","1 year","4","4 schools
+581 students","Suburban schools in Portland, OR. 
+15%minority"
+"11","Ross et al. (1994)","Ross et al. (1994)","1994","0","1","Cluster quasi-experiment",NA,"2 years","4","4 schools
+179 students","African-American students in high-poverty schools in Montgomery, AL"
+"12","Ross et al. (1995; 1994c)","Ross et al. (1995)","1995","0","1","Cluster quasi-experiment","1-4,
+ K-3,
+ K-2","3-4 years","4","4 schools
+257 students","Title I schools in Ft. Wayne, IN"
+"13","Ross et al. (1996b)","Ross et al. (1996b)","1996","0","1","Cluster quasi-experiment","1","1 year","12","12 schools
+781 students","Memphis, TN"
+"14","Ross et al. (1996a)","Ross et al. (1996a)","1996","0","1","Cluster quasi-experiment","1","1 year","5","5 schools
+428 students","Tucson, Arizona"
+"15","Ross et al. (1997)","Ross et al. (1997)","1997","1","1","Cluster quasi-experiment","1-3, K-2, 1","2-3 years","4","4 schools
+291 students","A medium-size midwestern city"
+"16","Slavin et al. (1993)","Slavin et al. (1993)","1993","0","0","Cluster quasi-experiment","1-5","3-6 years","10","10 schools
+1495 students","African-American students in high-poverty schools in Baltimore, MD"
+"17","Wang & Ross (1999)","Wang & Ross (1999)","1999","0","1","Cluster quasi-experiment","1","1 year","4","4 schools
+340 students","High poverty African-American schools in Little Rock, AK"
