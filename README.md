@@ -8,7 +8,7 @@ Success for All (SFA) is a comprehensive whole-school approach designed to help 
 This folder includes the dataset analyzed for this paper.
 
 ## License to Use These Data
-These data are made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/1.0/). You may use, share, and adapt the data so long as you agree to acknowledge this project as the source of these data. Please cite the data as:
+These data are made available under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). You may use, share, and adapt the data so long as you agree to acknowledge this project as the source of these data. Please cite the data as:
 
 Neitzel, A.J., Cheung, A., Xie, C., Zhuang, T.T., & Slavin, R.E. (2020). Data archive for "Success for All: A Quantitative Synthesis of U. S. Evaluations." Towson, MD: Center for Research and Reform in Education (CRRE), Johns Hopkins University. Retrieved from https://github.com/aj-neitzel/Success-for-All-A-Quantitative-Synthesis-of-U.-S.-Evaluations
 
